@@ -52,6 +52,13 @@
 <br clear="both">
 
 <div align="center">
+  <style>
+    a {
+      text-decoration: none; /* Remove underline */
+      display: inline-block; /* Make images appear inline */
+      margin: 0 10px; /* Add spacing between images */
+    }
+  </style>
   <a href="aishikpal.sp@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="65" height="50" alt="gmail logo"  />
   </a>
