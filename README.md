@@ -52,28 +52,21 @@
 <br clear="both">
 
 <div align="center">
-  <style>
-    a {
-      text-decoration: none; /* Remove underline */
-      display: inline-block; /* Make images appear inline */
-      margin: 0 10px; /* Add spacing between images */
-    }
-  </style>
   <a href="aishikpal.sp@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="65" height="50" alt="gmail logo"  />
-  </a>
+  </a> &nbsp;
   <a href="https://www.instagram.com/aishikp22/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="65" height="50" alt="instagram logo"  />
-  </a>
+  </a> &nbsp;
   <a href="https://www.facebook.com/aishik.paulson.5/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="65" height="50" alt="facebook logo"  />
-  </a>
+  </a> &nbsp;
   <a href="https://discord.com/channels/zidane05_stan" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="65" height="50" alt="discord logo"  />
-  </a>
+  </a> &nbsp;
   <a href="https://twitter.com/AishikPal3" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="65" height="50" alt="twitter logo"  />
-  </a>
+  </a> &nbsp;
   <a href="https://www.linkedin.com/in/aishik-pal-8a16262b5/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="65" height="50" alt="linkedin logo"  />
   </a>
