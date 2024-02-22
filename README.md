@@ -1,9 +1,7 @@
 <br clear="both">
-
 <h3 align="center">Hi! Welcome to my GitHub.</h3>
 
 ###
-
 <br clear="both">
 
 <p align="center">I am a Full Stack Developer with expertise in ASP .NET Core & AngularCLI.</p>
